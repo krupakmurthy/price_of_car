@@ -1,7 +1,7 @@
 # Practical Application 2 - What drives the price of a car?
 
 ## Notebook
-[Workbook]([https://www.google.com](https://github.com/krupakmurthy/price_of_car/blob/main/prompt_II.ipynb)) 
+[Workbook](https://www.google.com](https://github.com/krupakmurthy/price_of_car/blob/main/prompt_II.ipynb/ )
 
 ### Project Overview
 This project aims to analyze a dataset of used cars to identify key factors influencing car prices. The insights derived will help a used car dealership optimize inventory management, set competitive prices, and align with consumer preferences. By leveraging regression models and statistical analysis, actionable recommendations are delivered to the car dealership.
